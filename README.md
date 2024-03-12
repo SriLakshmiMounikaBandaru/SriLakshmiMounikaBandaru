@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19392
-Fork on GitHub
-5771
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Sri Lakshmi Mounika Bandaru</h1>
 <h3 align="center">Studying B.Tech within the branch of CSE with Specialization Artificial Intelligence And DataScience</h3>
 
